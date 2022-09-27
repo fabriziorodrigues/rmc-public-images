@@ -1,1 +1,1 @@
-# rmc-public-images
+# R.M.C.
